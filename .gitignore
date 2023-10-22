@@ -1,0 +1,11 @@
+.pytest_cache/
+crm_dev_csv/
+csv_files/
+data/
+downloads/
+logs/
+myenv/
+rev_csv/
+revCsv/
+sparkFiles/rsa_key.p8
+sparkFiles/Config_file.py
